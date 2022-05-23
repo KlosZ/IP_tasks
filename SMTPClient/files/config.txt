@@ -1,0 +1,5 @@
+sender: qwerty@yandex.ru
+password: password
+recipients: qwerty1@yandex.ru qwerty2@mail.ru
+subject: Well, well, well...
+attachments: ok_text_small.png
